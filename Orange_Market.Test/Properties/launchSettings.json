@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Orange_Market.Test": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\gabri\Documents\Orange_Market\Proyecto_Analisis\Orange_Market.Test\bin\Release\netcoreapp3.1\Orange_Market.Test.exe
+C:\Users\gabri\Documents\Orange_Market\Proyecto_Analisis\Orange_Market.Test\bin\Release\netcoreapp3.1\Orange_Market.Test.deps.json
+C:\Users\gabri\Documents\Orange_Market\Proyecto_Analisis\Orange_Market.Test\bin\Release\netcoreapp3.1\Orange_Market.Test.runtimeconfig.json
+C:\Users\gabri\Documents\Orange_Market\Proyecto_Analisis\Orange_Market.Test\bin\Release\netcoreapp3.1\Orange_Market.Test.runtimeconfig.dev.json
+C:\Users\gabri\Documents\Orange_Market\Proyecto_Analisis\Orange_Market.Test\bin\Release\netcoreapp3.1\Orange_Market.Test.dll
+C:\Users\gabri\Documents\Orange_Market\Proyecto_Analisis\Orange_Market.Test\bin\Release\netcoreapp3.1\Orange_Market.Test.pdb
+C:\Users\gabri\Documents\Orange_Market\Proyecto_Analisis\Orange_Market.Test\obj\Release\netcoreapp3.1\Orange_Market.Test.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\Orange_Market\Proyecto_Analisis\Orange_Market.Test\obj\Release\netcoreapp3.1\Orange_Market.Test.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Orange_Market\Proyecto_Analisis\Orange_Market.Test\obj\Release\netcoreapp3.1\Orange_Market.Test.AssemblyInfo.cs
+C:\Users\gabri\Documents\Orange_Market\Proyecto_Analisis\Orange_Market.Test\obj\Release\netcoreapp3.1\Orange_Market.Test.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Orange_Market\Proyecto_Analisis\Orange_Market.Test\obj\Release\netcoreapp3.1\Orange_Market.Test.dll
+C:\Users\gabri\Documents\Orange_Market\Proyecto_Analisis\Orange_Market.Test\obj\Release\netcoreapp3.1\Orange_Market.Test.pdb
+C:\Users\gabri\Documents\Orange_Market\Proyecto_Analisis\Orange_Market.Test\obj\Release\netcoreapp3.1\Orange_Market.Test.genruntimeconfig.cache
